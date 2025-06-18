@@ -7,23 +7,23 @@ banner:
   content: "Seguridad quirúrgica con nanopartículas de plata en gasa"
   image: /images/nanosafe/Recurso7.webp
   buttons:
-    - label: Pide tu muestra ahora!
-      href: "/contact"
+    - label: Comunicate a nuestro whatsapp!!!
+      href: "https://web.whatsapp.com/"
       icon:
-      addClasses: "bg-cyan-600 text-white hover:bg-accent dark:border-white/10 dark:border"
+      addClasses: "bg-cyan-600 text-center p-3 text-white hover:bg-accent dark:border-white/10 dark:border"
 
 sections:
-  - title: "¿Que es nanosafe?"
-    content: "El cobre es un mineral que necesitamos para mantenernos sanos. como producir energía, tejidos conectivos y vasos sanguíneos.<b class='text-accent'> El organismo usa cobre para llevar a cabo muchas funciones importantes,</b> El cobre también ayuda a mantener el sistema nervioso y el sistema inmunitario y activa los genes. "
-    image: /images/nanosafe/NanoGasa.png
+  - title: "¿Quienes Somos?"
+    content: <p class="p-3 text-center">Hola, somos Audioeventos, con 13 años de experiencia, entregamos servicio de TÉCNICA PARA EVENTOS.Cotizaciones disponibles  contacto.audioeventos@gmail.com</p>
+    image: /images/audioeventos.png
 
-  - title: Impregnación de nanoparticulas
-    content: El cobre es un mineral que necesitamos para mantenernos sanos.  energía<span class="text-accent font-bold"> tejidos conectivos y vasos sanguíneos</span> como producir.
-    image: /images/nanosafe/Maquina01.png
+  - title: Eventos Importantes
+    content: <p class="p-3 text-center">Hola, somos Audioeventos, con 13 años de experiencia, entregamos servicio de TÉCNICA PARA EVENTOS.Cotizaciones disponibles  contacto.audioeventos@gmail.com</p>
+    image: /images/audioeventos2.png
 
-  - title: Gasa nanosafe
-    content: "El cobre es un mineral que necesitamos para mantenernos sanos. como producir energía, tejidos conectivos y vasos sanguíneos.<b class='text-accent'> El organismo usa cobre para llevar a cabo muchas funciones importantes,</b> El cobre también ayuda a mantener el sistema nervioso y el sistema inmunitario y activa los genes. "
-    image: /images/nanosafe/gasa.png
+  - title: Información
+    content: <p class="p-3 text-center">Hola, somos Audioeventos, con 13 años de experiencia, entregamos servicio de TÉCNICA PARA EVENTOS.Cotizaciones disponibles  contacto.audioeventos@gmail.com</p>
+    image: /images/audioeventos.png
 
 ##key features
 features:

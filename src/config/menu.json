@@ -5,17 +5,8 @@
       "url": "/"
     },
     {
-      "name": "¿Que es nanosafe?",
-      "url": "/#¿Que#es#nanosafe?"
-    },
-    {
-      "name": "Gasas",
-      "url": "/#Gasa#nanosafe"
-    },
-
-    {
-      "name": "Contacto",
-      "url": "/contact"
+      "name": "¿Quienes Somos?",
+      "url": "/"
     }
   ],
 
@@ -25,8 +16,8 @@
       "url": "/"
     },
     {
-      "name": "Contacto",
-      "url": "/contact"
+      "name": "¿Quienes Somos?",
+      "url": "/"
     }
   ]
 }
